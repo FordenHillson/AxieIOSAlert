@@ -17,3 +17,5 @@ Scriptable https://apps.apple.com/us/app/scriptable/id1405459188?uo=4
 13. 3.Parameter : 5tEPyIU2|Axie Infinity
 
 เสร็จ
+
+https://youtu.be/0EWrYv54TLA
