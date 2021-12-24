@@ -3,7 +3,7 @@
 
 1. โหลดแอพ 
 Scriptable https://apps.apple.com/us/app/scriptable/id1405459188?uo=4
-2. โหลดไฟล์ Axie-infinity.scriptable <a href="downloadURL" target="https://FordenHillson.github.io/AxieIOSAlert/Axie-infinity.scriptable" />
+2. โหลดไฟล์ Axie-infinity.scriptable <a href="https://FordenHillson.github.io/AxieIOSAlert/Axie-infinity.scriptable" target="_blank" />
 3. เปิดไฟล์ Axie-infinity.scriptable 
 4. กดปุ่มแชร์ ตรงขวาบนของจอ เลือก แอพ scriptable
 5. กด Add to my scripts
