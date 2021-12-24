@@ -14,6 +14,6 @@ Scriptable https://apps.apple.com/us/app/scriptable/id1405459188?uo=4
 10. ตั้งค่า วิดเจ็ต
 11. 1.Script : Axie Infinity
 12. 2.When Interacting : Open URL https://testflight.apple.com/join/5tEPyIU2 
-13. 3. Parameter : 5tEPyIU2|Axie Infinity
+13. 3.Parameter : 5tEPyIU2|Axie Infinity
 
 เสร็จ
